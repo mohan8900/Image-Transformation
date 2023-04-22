@@ -31,8 +31,8 @@ Crop the image using cropped_image=org_img[10:350,320:560]
 Display all the Transformed images.
 ## Program:
 ```python
-Developed By: S.Harish Kumar
-Register Number:212221230104
+Developed By: MOHAN RAJ A K
+Register Number:212221230064
 
 
 
